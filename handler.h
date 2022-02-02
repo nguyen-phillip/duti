@@ -1,3 +1,6 @@
+#include <CoreFoundation/CoreFoundation.h>
+#include <CoreServices/CoreServices.h>
+
 struct roles {
   const char *r_role;
   LSRolesMask r_mask;

@@ -1,3 +1,5 @@
+#include <CoreFoundation/CoreFoundation.h>
+
 struct ll {
   char *l_path;
   struct ll *l_next;

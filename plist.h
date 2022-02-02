@@ -1,3 +1,5 @@
+#include <CoreFoundation/CoreFoundation.h>
+
 int read_plist(char *, CFDictionaryRef *);
 
 /* plist keys */
